@@ -88,12 +88,13 @@ This is not just a proof of concept, but a **blueprint** for next-gen recommende
 
 ---
 
+
 ##  Project Structure
 NeuralNetworkProject/
-├── Recommendation System.ipynb # Core notebook with model training & testing
-├── best_image_text_matches.csv # Precomputed image-text match scores (images/ # Dataset of product images)
-├── system_architecture/ multimodal_similarity_diagram.jpg # design of the project
-└── README.md # You're here!
+  ├── Recommendation System.ipynb # Core notebook with model training & testing
+  ├── best_image_text_matches.csv # Precomputed image-text match scores (images/ # Dataset of product images)
+  ├── system_architecture/ multimodal_similarity_diagram.jpg # design of the project
+  └── README.md # You're here!
 
 
 ---
