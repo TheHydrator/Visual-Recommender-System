@@ -106,8 +106,8 @@ NeuralNetworkProject/
 ## Authors
 
 Rohit Goutam Maity, Kunal Tamhane, Jaya Prakash Yadav Gorla, Preshita Soni, Rashi Jain  
-🎓 CSC 578, DePaul University  
-📅 June 2025
+CSC 578, DePaul University  
+June 2025
 
 ---
 
